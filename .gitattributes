@@ -1,0 +1,5 @@
+# Normalize maintained text files and keep Git settings out of install ZIPs.
+# Release packages are generated from an annotated Git tag with git archive.
+* text=auto eol=lf
+.gitignore export-ignore
+.gitattributes export-ignore

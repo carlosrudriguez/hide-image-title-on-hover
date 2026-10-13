@@ -1,0 +1,5 @@
+# Ignore local operating-system files and generated release artifacts.
+# The repository contains only maintained plugin source and documentation.
+.DS_Store
+*.zip
+*.log
